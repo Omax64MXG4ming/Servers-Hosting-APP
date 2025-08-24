@@ -1,5 +1,5 @@
 # Servers
-
+Apps can connect among themselves 
 ## My Server PHP
 [Download](https://github.com/Omax64MXG4ming/Servers-Hosting-APP/releases/download/Servers/SV.for.PHP.apk)
 
